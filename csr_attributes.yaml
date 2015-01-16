@@ -1,4 +1,4 @@
 ---
 extension_requests:
   1.3.6.1.4.1.34380.1.2.1.1: mySerialNumber
-  1.3.6.1.4.1.34380.1.2.1.2: myUUIDnumber
+  1.3.6.1.4.1.34380.1.2.1.2: facter_virtual
