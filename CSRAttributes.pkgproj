@@ -523,11 +523,11 @@
 			<key>CONCLUSION_ACTION</key>
 			<integer>0</integer>
 			<key>IDENTIFIER</key>
-			<string>org.sacredsf.pkg.puppet.csrattributes.cosxip</string>
+			<string>org.sacredsf.pkg.puppet.csrattributes</string>
 			<key>OVERWRITE_PERMISSIONS</key>
 			<false/>
 			<key>VERSION</key>
-			<string>1.4</string>
+			<string>1.5</string>
 		</dict>
 		<key>PROJECT_COMMENTS</key>
 		<dict>
@@ -713,7 +713,7 @@
 				</dict>
 			</array>
 			<key>NAME</key>
-			<string>CSRAttributes-COSXIP</string>
+			<string>CSRAttributes</string>
 		</dict>
 	</dict>
 	<key>TYPE</key>
