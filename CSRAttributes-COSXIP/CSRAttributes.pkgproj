@@ -507,7 +507,7 @@
 			<key>POSTINSTALL_PATH</key>
 			<dict>
 				<key>PATH</key>
-				<string>../postflight.sh</string>
+				<string>postflight.sh</string>
 				<key>PATH_TYPE</key>
 				<integer>1</integer>
 			</dict>
@@ -523,11 +523,11 @@
 			<key>CONCLUSION_ACTION</key>
 			<integer>0</integer>
 			<key>IDENTIFIER</key>
-			<string>org.sacredsf.pkg.puppet.csrattributes</string>
+			<string>org.sacredsf.pkg.puppet.csrattributes.cosxip</string>
 			<key>OVERWRITE_PERMISSIONS</key>
 			<false/>
 			<key>VERSION</key>
-			<string>1.0</string>
+			<string>1.3</string>
 		</dict>
 		<key>PROJECT_COMMENTS</key>
 		<dict>
@@ -713,7 +713,7 @@
 				</dict>
 			</array>
 			<key>NAME</key>
-			<string>CSRAttributes</string>
+			<string>CSRAttributes-COSXIP</string>
 		</dict>
 	</dict>
 	<key>TYPE</key>
